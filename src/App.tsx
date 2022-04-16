@@ -1,5 +1,5 @@
 import { Component } from "vue-property-decorator";
-import "./index.less";
+import "./index.scss";
 import { VueComponent } from "./shims-vue";
 
 interface AppProps {}
