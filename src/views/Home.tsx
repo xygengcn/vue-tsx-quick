@@ -8,7 +8,7 @@ interface HomeProps {
 
 @Component
 export default class Home extends VueComponent<HomeProps> {
-  private msg = "jjjj";
+  private msg = "这个快速建立vue模版的项目";
 
   public render() {
     return (

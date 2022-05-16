@@ -1,0 +1,12 @@
+@import "./color.scss";
+
+.hello-world {
+  display: flex;
+  flex-direction: column;
+  .content {
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: var(--bg-color);
+  }
+}
